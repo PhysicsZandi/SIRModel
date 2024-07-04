@@ -1,0 +1,1 @@
+In this repository, you will find a project in C++ about the SIR model, solved in two different ways: differential equation and cellular automata. To compile (on macOS), after installing sfml with homebrew, open ./sfml-app. The relation (in italian) is also uploaded. 
